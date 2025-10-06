@@ -121,3 +121,7 @@ transition: all 0.3s;
         font-weight: 900;
         color: #333;
     }
+    video::-webkit-media-controls-poster
+    {
+    display: none !important;
+    }

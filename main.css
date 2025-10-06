@@ -117,3 +117,7 @@ transition: all 0.3s;
         font-size: 14px;
         font-weight: bold;
     }
+    .mini-title {
+        font-weight: 900;
+        color: #333;
+    }
